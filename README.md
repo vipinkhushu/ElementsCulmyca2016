@@ -1,1 +1,0 @@
-# elementsculmyca.com
