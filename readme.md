@@ -6,6 +6,7 @@
 * [MaterializeCSS] http://materializecss.com/
 * jQuery
 * Google fonts : Lobster and Open Sans
+
 #### Check these
 * [Infinite Scrolling] http://www.sitepoint.com/jquery-infinite-scrolling-demos/
 * [Background Color change on scroll] http://www.jqueryscript.net/other/jQuery-Plugin-To-Change-Background-Colors-On-Scroll-Color-Scroll.html
